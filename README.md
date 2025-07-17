@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Lucas
 - 💻 Software Engineer @ [iFriend](https://theifriend.com)
 - 🧠 Next.js, TypeScript, and SEO-driven web applications Specialist
-- ✈️ Founder of travel platforms like **[GetViagens](https://getviagens.com){:target="_blank"}** and **[hotel.express](https://hotel.express)**  
+- ✈️ Founder of travel platforms like **[GetViagens](https://getviagens.com)** and **[hotel.express](https://hotel.express)**  
 - 🎹 Piano player & music lover
 - 🌐 Portuguese | English | Italian
 
