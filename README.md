@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi! I'm Lucas
+- 💻 Software Engineer @ [iFriend](https://theifriend.com)
+- 🧠 Next.js, TypeScript, and SEO-driven web applications Specialist
+- ✈️ Founder of travel platforms like **[GetViagens](https://getviagens.com)** and **[hotel.express](https://hotel.express)**  
+- 🎹 Piano player & music lover
+- 🌐 Portuguese | English | Italian
 
-<!--
-**lucaport/lucaport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/lucas-portella-332183151)
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** TypeScript, JavaScript, HTML, CSS, PHP  
+- **Frameworks & Libraries:** Next.js, React, Node.js, Tailwind CSS, i18next  
+- **Databases:** PostgreSQL, MongoDB  
+- **CMS:** Strapi, PayloadCMS  
+- **DevOps:** GitHub Actions, Vercel, Firebase  
+- **Testing:** Jest, Cypress
+- **Design:** Figma, Adobe XD  
+- **Other:** REST APIs, GraphQL, AI Integrations (OpenAI, SerpAPI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced **AI workflows** for automations
