@@ -21,6 +21,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?&style=flat-square&logo=sass&logoColor=FFF)
 ![Less](https://img.shields.io/badge/LESS-2B4C80?style=flat-square&logo=less&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=FFF)
+![next-intl](https://img.shields.io/badge/Next_intl-000?style=flat-square)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=FFF)
 ![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?&style=flat-square&logo=vite&logoColor=FFF)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?&style=flat-square&logo=webpack&logoColor=000)
