@@ -32,9 +32,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=mongodb&logoColor=FFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?&style=flat-square&logo=postgresql&logoColor=FFF)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=mysql&logoColor=FFF)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
-[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white&style=flat-square)]
+[!LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white&style=flat-square)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-101c3f?style=flat-square&logo=elasticsearch)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?&style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?&style=flat-square&logo=prettier&logoColor=000)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?&style=flat-square&logo=storybook&logoColor=FFF)
