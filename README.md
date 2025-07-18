@@ -16,6 +16,7 @@
 ![Apollo](https://img.shields.io/badge/Apollo-311C87?&style=flat-square&logo=apollographql&logoColor=FFF)
 ![GraphQL](https://img.shields.io/badge/GraphQL-171E26?&style=flat-square&logo=graphql&logoColor=F6009B)
 ![Zod](https://img.shields.io/badge/Zod-%233068b7.svg?style=flat-square&logo=zod&logoColor=white)
+![zustand](https://img.shields.io/badge/%F0%9F%90%BB%20Zustand-39312A?&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=FFF)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?&style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?&style=flat-square&logo=sass&logoColor=FFF)
@@ -32,6 +33,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?&style=flat-square&logo=postgresql&logoColor=FFF)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=mysql&logoColor=FFF)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
+[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white&style=flat-square)]
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-101c3f?style=flat-square&logo=elasticsearch)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?&style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?&style=flat-square&logo=prettier&logoColor=000)
